@@ -50,7 +50,7 @@ class ConfigHttp:
             response = requests.post(self.url,data=json.loads(self.data))
             self.mylog.info('request '+self.url)
             return response
-        except Exception as e:
+        except Exception as e :
             self.mylog.error('接口请求错误')
             raise e
 

@@ -14,20 +14,16 @@ class TestApi(unittest.TestCase):
     @data(*get_xls('xiaowen.xlsx'))
     @unpack
     def test_search(self,url,data,msg,case_name):
-        #config url
-        request.set_url(gl.xiaowen,url)
-        #config data
-        request.set_data(data)
-        self.case_name = case_name
-        #get response
-        self.response = request.post()
+        request.set_url(gl.xiaowen,url)      #config url
+        request.set_data(data)               #config data
+        self.case_name = case_name           #config casename
+        self.response = request.post()       #get response
         #print(self.response)
         self.js = self.response.json()
-        #print(self.js)
-        #assert statues_code
-        self.assertEqual(self.js['code'],200)
-        #assert msg
-        self.assertEqual(self.js['message'],msg)
+        print('返回json：'+self.js)
+        self.assertEqual(self.js['code'], 200)    # assert statues_code
+        self.assertEqual(self.js['message'], msg)        #assert msg
+
 
 
 

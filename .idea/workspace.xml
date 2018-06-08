@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37ee5e36-93b2-46f2-b028-24d449344e8f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/config/sethttp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/configHttp.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/configHttp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/mylog.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/mylog.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCase/xiaowenCase/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCase/xiaowenCase/test_search.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,31 +17,33 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/project$send_mail.coverage" NAME="send_mail Coverage Results" MODIFIED="1527671837395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/project$run.coverage" NAME="run Coverage Results" MODIFIED="1528194614555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$run.coverage" NAME="run Coverage Results" MODIFIED="1528432197908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project$Log.coverage" NAME="Log Coverage Results" MODIFIED="1525851712857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
-    <SUITE FILE_PATH="coverage/project$Unittests_in_test_search_py.coverage" NAME="Unittests in test_search.py Coverage Results" MODIFIED="1528190672138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_test_search_py.coverage" NAME="Unittests in test_search.py Coverage Results" MODIFIED="1528432731509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
     <SUITE FILE_PATH="coverage/project$comm.coverage" NAME="comm Coverage Results" MODIFIED="1528188270939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/project$sethttp.coverage" NAME="sethttp Coverage Results" MODIFIED="1528447565145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/project$configHttp.coverage" NAME="configHttp Coverage Results" MODIFIED="1525854029631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/project$Unittests_in_testSearch_py__2_.coverage" NAME="Unittests in test_search.py Coverage Results" MODIFIED="1525940243863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
     <SUITE FILE_PATH="coverage/project$Unittests_in_testSearch_py.coverage" NAME="Unittests in testSearch.py Coverage Results" MODIFIED="1525865152014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/project$test.coverage" NAME="test Coverage Results" MODIFIED="1526285857223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/project$Unittests_for_test_addSource_TestAddSource.coverage" NAME="Unittests for test_addSource.TestAddSource Coverage Results" MODIFIED="1526267164403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
+    <SUITE FILE_PATH="coverage/project$Unittests_in_test_search_py__1_.coverage" NAME="Unittests in test_search.py (1) Coverage Results" MODIFIED="1528448263929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/project$globalpara.coverage" NAME="globalpara Coverage Results" MODIFIED="1525848464542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
-    <SUITE FILE_PATH="coverage/project$Unittests_for_test_search_TestApi.coverage" NAME="Unittests for test_search.TestApi Coverage Results" MODIFIED="1526286129652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
+    <SUITE FILE_PATH="coverage/project$Unittests_for_test_search_TestApi.coverage" NAME="Unittests for test_search.TestApi Coverage Results" MODIFIED="1528432587922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
     <SUITE FILE_PATH="coverage/project$Unittests_for_test_addSource_TestAddSource_test_addSource_01.coverage" NAME="Unittests for test_addSource.TestAddSource.test_addSource_01 Coverage Results" MODIFIED="1526267097241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
     <SUITE FILE_PATH="coverage/project$Unittests_in_testSearch_py__1_.coverage" NAME="Unittests in testSearch.py (1) Coverage Results" MODIFIED="1525865492306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
-    <SUITE FILE_PATH="coverage/project$Unittests_for_test_search_TestApi_test_search.coverage" NAME="Unittests for test_search.TestApi.test_search Coverage Results" MODIFIED="1526285886921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
     <SUITE FILE_PATH="coverage/project$learn.coverage" NAME="learn Coverage Results" MODIFIED="1528196626730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/project$Unittests_for_test_search_TestApi_test_search.coverage" NAME="Unittests for test_search.TestApi.test_search Coverage Results" MODIFIED="1528432402289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
     <SUITE FILE_PATH="coverage/project$Unittests_in_test_py.coverage" NAME="Unittests in case.py Coverage Results" MODIFIED="1525864467090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/project$Unittests_in_test_addSource_py.coverage" NAME="Unittests in test_addSource.py Coverage Results" MODIFIED="1527672234262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase/xiaowenCase" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="configHttp.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="configHttp.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/configHttp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+            <state relative-caret-position="510">
+              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -45,14 +51,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="send_mail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/send_mail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_search.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/xiaowenCase/test_search.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/run.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="385">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_addSource.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testCase/xiaowenCase/test_addSource.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -89,10 +125,12 @@
         <option value="$PROJECT_DIR$/common/comm.py" />
         <option value="$PROJECT_DIR$/venv/Lib/site-packages/BeautifulReport/BeautifulReport.py" />
         <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/config/configHttp.py" />
-        <option value="$PROJECT_DIR$/testCase/xiaowenCase/test_search.py" />
         <option value="$PROJECT_DIR$/learn.py" />
         <option value="$PROJECT_DIR$/config/globalpara.py" />
+        <option value="$PROJECT_DIR$/testCase/xiaowenCase/test_search.py" />
+        <option value="$PROJECT_DIR$/config/configHttp.py" />
+        <option value="$PROJECT_DIR$/config/sethttp.py" />
+        <option value="$PROJECT_DIR$/config/test_search.py" />
       </list>
     </option>
   </component>
@@ -106,8 +144,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-60" />
-    <option name="y" value="-1026" />
+    <option name="x" value="-132" />
+    <option name="y" value="-1016" />
     <option name="width" value="1524" />
     <option name="height" value="915" />
   </component>
@@ -127,7 +165,28 @@
             <path>
               <item name="project" type="b2602c69:ProjectViewProjectNode" />
               <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+              <item name="xiaowenCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+              <item name="testFile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,9 +207,9 @@
       <recent name="D:\project\testCase" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\config" />
       <recent name="D:\project\venv\Lib\site-packages" />
       <recent name="D:\project\testCase" />
-      <recent name="D:\project\config" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,8 +224,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.learn">
-    <configuration name="comm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in test_search.py (1)">
+    <configuration name="sethttp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,56 +233,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/comm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/config/sethttp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="learn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="project" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Unittests in test_addSource.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_search.TestApi" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,7 +255,35 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCase/xiaowenCase/test_addSource.py&quot;" />
+      <option name="_new_target" value="&quot;test_search.TestApi&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests for test_search.TestApi.test_search" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCase/xiaowenCase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_search.TestApi.test_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in test_search.py (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/config/test_search.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in test_search.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
@@ -253,18 +302,18 @@
     </configuration>
     <list>
       <item itemvalue="Python tests.Unittests in test_search.py" />
-      <item itemvalue="Python.comm" />
-      <item itemvalue="Python tests.Unittests in test_addSource.py" />
-      <item itemvalue="Python.run" />
-      <item itemvalue="Python.learn" />
+      <item itemvalue="Python tests.Unittests for test_search.TestApi.test_search" />
+      <item itemvalue="Python tests.Unittests for test_search.TestApi" />
+      <item itemvalue="Python.sethttp" />
+      <item itemvalue="Python tests.Unittests in test_search.py (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.learn" />
-        <item itemvalue="Python.run" />
+        <item itemvalue="Python tests.Unittests in test_search.py (1)" />
+        <item itemvalue="Python.sethttp" />
         <item itemvalue="Python tests.Unittests in test_search.py" />
-        <item itemvalue="Python.comm" />
-        <item itemvalue="Python tests.Unittests in test_addSource.py" />
+        <item itemvalue="Python tests.Unittests for test_search.TestApi" />
+        <item itemvalue="Python tests.Unittests for test_search.TestApi.test_search" />
       </list>
     </recent_temporary>
   </component>
@@ -282,44 +331,44 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_addSource_py - 2018.05.16 at 15h 48m 35s.xml">
-      <configuration name="Unittests in test_addSource.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.05.16 at 16h 20m 47s.xml">
+    <history-entry file="Unittests_in_test_search_py - 2018.06.08 at 12h 33m 33s.xml">
       <configuration name="Unittests in test_search.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.05.16 at 16h 22m 48s.xml">
+    <history-entry file="Unittests_in_test_search_py - 2018.06.08 at 12h 34m 48s.xml">
       <configuration name="Unittests in test_search.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.05.16 at 16h 23m 36s.xml">
+    <history-entry file="Unittests_in_test_search_py - 2018.06.08 at 12h 35m 26s.xml">
       <configuration name="Unittests in test_search.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.05.16 at 16h 25m 13s.xml">
+    <history-entry file="Unittests_in_test_search_py - 2018.06.08 at 12h 35m 46s.xml">
       <configuration name="Unittests in test_search.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.05.16 at 16h 27m 00s.xml">
+    <history-entry file="Unittests_for_test_search_TestApi - 2018.06.08 at 12h 36m 28s.xml">
+      <configuration name="Unittests for test_search.TestApi" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_search_py - 2018.06.08 at 12h 37m 14s.xml">
       <configuration name="Unittests in test_search.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.05.16 at 16h 36m 31s.xml">
+    <history-entry file="Unittests_in_test_search_py - 2018.06.08 at 12h 37m 44s.xml">
       <configuration name="Unittests in test_search.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.05.16 at 16h 36m 46s.xml">
+    <history-entry file="Unittests_in_test_search_py - 2018.06.08 at 12h 38m 51s.xml">
       <configuration name="Unittests in test_search.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_addSource_py - 2018.05.30 at 17h 23m 55s.xml">
-      <configuration name="Unittests in test_addSource.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_search_py_(1) - 2018.06.08 at 16h 56m 56s.xml">
+      <configuration name="Unittests in test_search.py (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_search_py - 2018.06.05 at 17h 24m 32s.xml">
-      <configuration name="Unittests in test_search.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_search_py_(1) - 2018.06.08 at 16h 57m 44s.xml">
+      <configuration name="Unittests in test_search.py (1)" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-60" y="-1026" width="1524" height="915" extended-state="0" />
+    <frame x="-132" y="-1016" width="1524" height="915" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26875" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -611,18 +660,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/report/2018-05-30 17_14_04report.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-198" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/send_mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2018-05-30 17_14_04report.html" />
     <entry file="file://$PROJECT_DIR$/common/comm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -633,19 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/report/2018-06-05 16_45_44report.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/xiaowenCase/test_addSource.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="968">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/BeautifulReport.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/BeautifulReport/BeautifulReport.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -654,34 +679,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/log/mylog.log">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-109">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="LogFileEditorProvider">
         <state relative-caret-position="1470">
           <caret line="772" column="69" lean-forward="true" selection-start-line="772" selection-start-column="38" selection-end-line="772" selection-end-column="69" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/learn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testCase/xiaowenCase/test_search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/learn.py" />
     <entry file="file://$PROJECT_DIR$/config/globalpara.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -689,20 +698,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/configHttp.py">
+    <entry file="file://$PROJECT_DIR$/testCase/xiaowenCase/test_addSource.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        <state relative-caret-position="600">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
+    <entry file="file://$PROJECT_DIR$/common/send_mail.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        <state relative-caret-position="300">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/test_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/xiaowenCase/test_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/sethttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/configHttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
