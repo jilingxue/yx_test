@@ -14,5 +14,4 @@ class ConfigRequest:
     def get(self):
         return requests.get(url=self.url,params=self.data).text
 
-r = ConfigRequest('http://www.baidu.com')
-print(r.get())
+print(__name__)
