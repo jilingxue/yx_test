@@ -39,7 +39,7 @@ class ConfigHttp:
             return response
         except Exception as e:
             self.mylog.error('接口请求异常')
-            raise e
+            #raise e
 
     def post(self):
         '''
@@ -48,9 +48,9 @@ class ConfigHttp:
         '''
         try:
             response = requests.post(self.url,data=json.loads(self.data))
-            self.mylog.info('request '+self.url)
+            #self.mylog.info('request '+self.url)
             return response
         except Exception as e :
             self.mylog.error('接口请求错误')
-            raise e
+            #raise e
 
